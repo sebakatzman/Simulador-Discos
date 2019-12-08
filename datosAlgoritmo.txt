@@ -1,0 +1,19 @@
+-----Estrategia utilizada: C-LOOK-----
+Cadena a de datos a simular
+[48, 987, 2605, 3005, 640, 693, 1028, 693, 2240]
+Orden en el que se atienden los requerimientos
+3  -  0  =  3
+0  -  3005  =  3005
+3005  -  2605  =  400
+2605  -  2240  =  365
+2240  -  1028  =  1212
+1028  -  987  =  41
+987  -  693  =  294
+693  -  693  =  0
+693  -  640  =  53
+640  -  48  =  592
+Distancia recorridda total: 5965
+Retardo rotacional: 15000.0ms
+Tiempo de transferencia: 15000.0ms
+Cantidad de movimientos: 9
+Tiempo acceso total: 270018.0ms
